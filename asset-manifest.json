@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iExpense-react-website/static/css/main.51a9a723.chunk.css",
+    "main.js": "/iExpense-react-website/static/js/main.52a0c774.chunk.js",
+    "main.js.map": "/iExpense-react-website/static/js/main.52a0c774.chunk.js.map",
+    "runtime-main.js": "/iExpense-react-website/static/js/runtime-main.e5af21bc.js",
+    "runtime-main.js.map": "/iExpense-react-website/static/js/runtime-main.e5af21bc.js.map",
+    "static/js/2.4ce0f7c7.chunk.js": "/iExpense-react-website/static/js/2.4ce0f7c7.chunk.js",
+    "static/js/2.4ce0f7c7.chunk.js.map": "/iExpense-react-website/static/js/2.4ce0f7c7.chunk.js.map",
+    "index.html": "/iExpense-react-website/index.html",
+    "precache-manifest.0af230f57e7f52c80f34d886a0a84200.js": "/iExpense-react-website/precache-manifest.0af230f57e7f52c80f34d886a0a84200.js",
+    "service-worker.js": "/iExpense-react-website/service-worker.js",
+    "static/css/main.51a9a723.chunk.css.map": "/iExpense-react-website/static/css/main.51a9a723.chunk.css.map",
+    "static/js/2.4ce0f7c7.chunk.js.LICENSE.txt": "/iExpense-react-website/static/js/2.4ce0f7c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5af21bc.js",
+    "static/js/2.4ce0f7c7.chunk.js",
+    "static/css/main.51a9a723.chunk.css",
+    "static/js/main.52a0c774.chunk.js"
+  ]
+}
